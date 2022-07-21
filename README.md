@@ -1,8 +1,10 @@
 ### Olá, meu nome é Julio. trabalho com tecnologia desde 2002. <br>
-Formando em Análise e Desenvolvimento de Sistemas pelo <a href="http://claretiano.edu.br" target="_blank">Centro Universitário Claretiano</a> - 2012.<br>
-Pós-graduado em Engenharia de Software Centrada em Métodos Ágeis pelo <a href="http://una.edu.br" target="_blank">CCentro Universitário de Belo Horizonte</a> - 2013.<br>
-Pós-graduando em Arquitetura de Sistemas Distribuidos pela <a href="http://pucminas.edu.br" target="_blank">PUC MINAS</a> - Em curso.<br>
-Pós-graduando em MIT em Cloud Computing, Virtualização e Conteinerização pelo <a href="http://infnet.edu.br" target="_blank">INFNET</a> - Em curso.<br>
+<ul>
+<li>Formando em Análise e Desenvolvimento de Sistemas pelo <a href="http://claretiano.edu.br" target="_blank">Centro Universitário Claretiano</a> - 2012.</li>
+<li>Pós-graduado em Engenharia de Software Centrada em Métodos Ágeis pelo <a href="http://una.edu.br" target="_blank">CCentro Universitário de Belo Horizonte</a> - 2013.</li>
+<li>Pós-graduando em Arquitetura de Sistemas Distribuidos pela <a href="http://pucminas.edu.br" target="_blank">PUC MINAS</a> - Em curso.</li>
+<li>Pós-graduando em MIT em Cloud Computing, Virtualização e Conteinerização pelo <a href="http://infnet.edu.br" target="_blank">INFNET</a> - Em curso.</li>
+ </ul>
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soltein&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soltein&layout=compact&langs_count=7&theme=github_dark"/>
