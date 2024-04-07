@@ -2,8 +2,8 @@
 <ul>
 <li>Formando em Análise e Desenvolvimento de Sistemas pelo <a href="http://claretiano.edu.br" target="_blank">Centro Universitário Claretiano</a> - 2012.</li>
 <li>Pós-graduado em Engenharia de Software Centrada em Métodos Ágeis pelo <a href="http://una.br" target="_blank">Centro Universitário de Belo Horizonte</a> - 2013.</li>
-<li>Pós-graduando em Arquitetura de Sistemas Distribuidos pela <a href="http://pucminas.br" target="_blank">PUC MINAS</a> - 2023.</li>
-<li>Pós-graduando em MIT em Cloud Computing, Virtualização e Conteinerização pelo <a href="http://infnet.edu.br" target="_blank">INFNET</a> - 2023.</li>
+<li>Pós-graduado em Arquitetura de Sistemas Distribuidos pela <a href="http://pucminas.br" target="_blank">PUC MINAS</a> - 2023.</li>
+<li>Pós-graduado em MIT em Cloud Computing, Virtualização e Conteinerização pelo <a href="http://infnet.edu.br" target="_blank">INFNET</a> - 2023.</li>
  </ul>
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soltein&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
